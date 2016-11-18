@@ -1,0 +1,7 @@
+#Fri Nov 18 14:46:21 IST 2016
+base.0=/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16d033ccbbd9a05c3f965688cc6ea6b3c52a0a02
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_835c66b14b9119ff578d07c2e2cb0b1e555cc3f0/classes.dex
+base.1=/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_835c66b14b9119ff578d07c2e2cb0b1e555cc3f0
+file.0=/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16d033ccbbd9a05c3f965688cc6ea6b3c52a0a02/classes.dex

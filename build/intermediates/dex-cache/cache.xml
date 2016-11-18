@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ee7ad7b1bee4da9e533b833338f239b0470c7523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b67ca59acbad9b8922d03b94d8623427e70ab9b">
+        <dex dex="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_835c66b14b9119ff578d07c2e2cb0b1e555cc3f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bb89b204e450c30b62efc4193c3c2d18db1c225">
+        <dex dex="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16d033ccbbd9a05c3f965688cc6ea6b3c52a0a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_50cdd2620e1860fb10723ef92a73e085e4abfb7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeepjeswani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/pradeepjeswani/Downloads/pramati/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_530c7076c62f8a5f322e59c5e42aefe0938dc989/classes.dex" />
+    </item>
+
+</items>
